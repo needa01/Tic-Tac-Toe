@@ -1,4 +1,4 @@
-Tic Tac Toe Game
+#Tic Tac Toe Game
 This is a simple implementation of the classic game Tic Tac Toe using HTML, CSS, and JavaScript. The game allows two players to take turns and compete against each other to get three of their markers in a row, column, or diagonal.
 
 Tic Tac Toe Screenshot: 
