@@ -64,17 +64,23 @@ If a player wins, a victory message will be displayed. Click the "Restart" butto
 
 Game Rules:
 Players take turns to place their markers on the grid.
+
 The objective is to get three of your markers in a row (horizontally, vertically, or diagonally).
+
 The game ends when one player wins or there are no more empty cells.
+
 If no player achieves three markers in a row and no more moves are possible, the game ends in a draw.
+
+
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
 
 Fork the project:
-Create your feature branch: git checkout -b feature/new-feature
-Commit your changes: git commit -am 'Add a new feature'
-Push to the branch: git push origin feature/new-feature
-Open a pull request.
+
+>Create your feature branch: git checkout -b feature/new-feature
+>Commit your changes: git commit -am 'Add a new feature'
+>Push to the branch: git push origin feature/new-feature
+>Open a pull request.
 
 
-Enjoy playing Tic Tac Toe! If you have any questions or feedback, please don't hesitate to contact us.
+Enjoy playing Tic Tac Toe! If you have any questions or feedback, please don't hesitate to contact us @needa.0710@gmail.com
